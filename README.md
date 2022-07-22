@@ -1,16 +1,14 @@
-### Hi there 👋
+## Welcome to my profile 🙌
 
-<!--
-**pzet123/pzet123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a first year computer science student at the university of Warwick (Graduating in 2024)
+- 💻 I'm the head of courses at Warwick CodeSoc
+- 💼 I'm currently working as an intern software developer at TravelFusion
+- 🌱 I’m also currently learning app development with Flutter, take a look at my apps:
+  * [Play store](https://play.google.com/store/apps/developer?id=Pzet)
+  * [App store](https://apps.apple.com/us/developer/piotr-zychlinski/id1624241787)
+- 🧠 I'm most proficient in:
+  * Java
+  * Python & Flask
+  * HTML, CSS & JS
+  * Dart & Flutter
+- 📫 Talk to me on [linkedin](https://www.linkedin.com/in/piotr-zychlinski-63a205226/) 
